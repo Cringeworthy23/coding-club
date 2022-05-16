@@ -1,4 +1,3 @@
-from audioop import mul
 import matplotlib.pyplot as plt
 
 list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -9,7 +8,7 @@ list2 = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 
 def single_plot_plotting():
     # Classic connect-the-dots plot
-    plt.plot(list1, list2, ':', 'r')
+    plt.scatter(list1, list2, marker = '+', color = 'r')
 
     # Args for plot: 
     """
