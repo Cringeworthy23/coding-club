@@ -1,0 +1,56 @@
+"""
+1. 
+Verify that all installations are correct and everyone has Python 3.x.x and an IDE. Integrated Development Environment (IDE) is a program that allows you to write code and run it.
+2. 
+Open Python Terminal and run basic math and variables. 
+2a.
+VARIABLES/PRINTING
+print("Hello World!")
+a = "Hello"
+b = "World!"
+print(a + " " + b)
+Variables are flexible. other languages define type, but python does not. 
+Change between them by: 
+a = "1"
+b = 1
+print(a + b)
+a = int(a)
+b = int(b)
+print(a + b)
+a = str(a)
+b = str(b)
+print(a + b)
+2b. 
+Basic Math
+3+3
+3-3
+3*3
+3/3
+3**3
+a = 3
+b = 3
+c = a + b
+print(c)
+3.
+Switch to IDE and start on loops
+x = 5
+if x == 5: 
+    print("x is 5")
+else: 
+    print("x is not 5")
+4. 
+Input
+x = int(input("Please enter a number: "))
+print(x)
+5.
+Loops
+x = 0
+while x < 10:
+    print(x)
+    x = x + 1
+    OR: x += 1
+6. 
+
+Code the calculator! 
+
+"""
