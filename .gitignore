@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-lesson_plan
-**.pyc
-=======
-'Project 1'\\lesson_plan
-'Project 2'\\lesson_plan
-'Project 3'\\lesson_plan
->>>>>>> 0eaaa142c96e6d9b162942f225a304648da9a569
+**/lesson_plan
+**/__pycache__
